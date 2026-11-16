@@ -1,0 +1,510 @@
+﻿edge_id,way_id,u,v,name,highway,road_type,is_alley,alley_status,oneway,length
+1,32575790,366414641,5733448375,Hẻm 31 Ung Văn Khiêm,residential,Hẻm cấp 1,True,Hẻm thông,no,67.5
+37,32578249,10910534491,12968646809,Đường D5,tertiary,Đường chính,False,Đường thông,no,23.86
+38,32578249,12968646809,2030639172,Đường D5,tertiary,Đường chính,False,Đường thông,no,140.78
+39,32578410,366421019,4235815135,Hẻm 362 Ung Văn Khiêm,residential,Hẻm cấp 1,True,Hẻm thông,no,48.16
+40,32578410,4235815135,366461809,Hẻm 362 Ung Văn Khiêm,residential,Hẻm cấp 1,True,Hẻm thông,no,48.2
+49,32580099,366376129,14302736777,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,120.59
+50,32580099,14302736777,366420858,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,4.68
+51,32580099,366420858,5778236310,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,32.86
+52,32580099,5778236310,366368684,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,28.61
+53,32580099,366368684,13269798556,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,22.8
+54,32580099,13269798556,14302741662,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,46.65
+55,32580099,14302741662,14302826694,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,33.71
+56,32580099,14302826694,366404239,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,48.7
+57,32580099,366404239,14302836878,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,8.48
+58,32580099,14302836878,5778236307,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,69.8
+59,32580099,5778236307,366464985,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,62.57
+60,32580099,366464985,5778236296,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,45.06
+61,32580099,5778236296,5778236289,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,42.74
+62,32580099,5778236289,5110358419,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,53.83
+63,32580099,5110358419,366367285,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,10.11
+64,32580099,366367285,366416151,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,152.99
+65,32580168,366367285,366464634,Hẻm 143A Ung Văn Khiêm,residential,Hẻm cấp 1,True,Hẻm thông,no,129.58
+66,32580168,366464634,366382472,Hẻm 143A Ung Văn Khiêm,residential,Hẻm cấp 1,True,Hẻm thông,no,126.39
+67,32580168,366382472,5735415592,Hẻm 143A Ung Văn Khiêm,residential,Hẻm cấp 1,True,Hẻm thông,no,51.58
+68,32580168,5735415592,5735415590,Hẻm 143A Ung Văn Khiêm,residential,Hẻm cấp 1,True,Hẻm thông,no,57.03
+75,32581944,9415490889,366448616,Cầu Sài Gòn,trunk,Đường chính,False,Đường cụt,yes,1017.34
+97,32584918,366461809,5337055595,Hẻm 685 Điện Biên Phủ,residential,Hẻm cấp 1,True,Hẻm thông,no,101.14
+101,32584922,5337055597,1497313028,Hẻm 667 Điện Biên Phủ,residential,Hẻm cấp 1,True,Hẻm thông,no,55.82
+110,32587705,11770053437,5738226811,Hẻm không tên,residential,Hẻm không tên,True,Hẻm thông,no,122.79
+139,32589137,2030638976,14091806927,Nguyễn Gia Trí,tertiary,Đường chính,False,Đường thông,no,45.37
+140,32589137,14091806927,729523408,Nguyễn Gia Trí,tertiary,Đường chính,False,Đường thông,no,10.42
+141,33103592,373544294,373544277,Cầu Sơn,primary,Đường chính,False,Đường thông,yes,24.49
+142,33103624,373544381,373544408,Cầu Văn Thánh 1,trunk,Đường chính,False,Đường thông,yes,57.55
+150,33574430,8840296760,728690577,Cầu vượt Nguyễn Hữu Cảnh,primary,Đường chính,False,Đường thông,yes,589.46
+157,35085959,14086099587,366440827,Điện Biên Phủ,trunk,Đường chính,False,Đường thông,yes,70.0
+158,35085959,366440827,366441141,Điện Biên Phủ,trunk,Đường chính,False,Đường thông,yes,176.62
+162,53551190,676546410,676544140,Cầu Văn Thánh 1,trunk,Đường chính,False,Đường thông,yes,57.74
+163,53551383,729523390,5733448384,Xô Viết Nghệ Tĩnh,primary,Đường chính,False,Đường cụt,yes,30.09
+164,53551383,5733448384,12307718619,Xô Viết Nghệ Tĩnh,primary,Đường chính,False,Đường cụt,yes,21.9
+165,55880235,729523408,5778235549,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,59.59
+166,55880235,5778235549,729523405,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,18.18
+167,55880235,729523405,2030639374,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,128.91
+173,58800536,403552872,13321346421,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,119.81
+174,58800536,13321346421,4066363895,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,62.11
+175,58800536,4066363895,728690586,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,63.16
+176,58871368,729523402,1497325357,Hẻm 492 Điện Biên Phủ,service,Hẻm cấp 1,True,Hẻm thông,no,89.11
+177,59986387,14086099588,5777195806,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,26.9
+178,59986387,5777195806,4663133999,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,68.69
+179,59986387,4663133999,2022539300,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,77.92
+180,60785890,760842137,366468735,Hẻm 405 Xô viết Nghệ Tĩnh,residential,Hẻm cấp 1,True,Hẻm cụt,no,160.41
+215,112286507,1276696904,5778363145,Hẻm 60 Ung Văn Khiêm,residential,Hẻm cấp 1,True,Hẻm thông,no,55.27
+219,136502345,2030638872,1497276525,Ngã tư Hàng Xanh,primary,Đường chính,False,Đường thông,yes,35.36
+220,136505783,728705748,1497313042,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,44.8
+221,136505783,1497313042,5337055595,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,49.79
+222,136505783,5337055595,4235815134,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,52.64
+223,136505783,4235815134,1497313028,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,46.05
+224,136505783,1497313028,1497313012,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,59.38
+225,136505783,1497313012,1497312983,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,55.83
+226,136505783,1497312983,13181224430,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,61.4
+227,136505783,13181224430,13326727612,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,30.73
+231,136505788,1497313065,13321346429,Hẻm 677 Điện Biên Phủ,residential,Hẻm cấp 1,True,Hẻm thông,no,94.0
+232,136505788,13321346429,4235815134,Hẻm 677 Điện Biên Phủ,residential,Hẻm cấp 1,True,Hẻm thông,no,6.7
+237,136505793,403552872,1497313012,Đường không tên,primary_link,Đường chính,False,Đường thông,no,14.6
+256,136505802,13791452204,1497312816,Nguyễn Hữu Cảnh,primary,Đường chính,False,Đường thông,yes,316.12
+271,136505810,366448590,1497313149,Hẻm 178 Nguyễn Văn Thương,residential,Hẻm cấp 1,True,Hẻm thông,no,84.94
+276,136507381,5778363123,5778363116,Hẻm 306 Xô Viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm thông,no,52.52
+277,136507381,5778363116,2692283095,Hẻm 306 Xô Viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm thông,no,41.93
+346,191666357,5733301065,5733301040,Xô Viết Nghệ Tĩnh,primary,Đường chính,False,Đường thông,yes,59.15
+347,191666357,5733301040,5778363087,Xô Viết Nghệ Tĩnh,primary,Đường chính,False,Đường thông,yes,6.37
+348,191666357,5778363087,366468735,Xô Viết Nghệ Tĩnh,primary,Đường chính,False,Đường thông,yes,22.23
+349,191666357,366468735,373544294,Xô Viết Nghệ Tĩnh,primary,Đường chính,False,Đường thông,yes,16.8
+381,192289472,5738206939,2659114287,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,78.84
+382,192289478,9415490888,2659114288,Cầu Sài Gòn,primary,Đường chính,False,Đường cụt,yes,1014.6
+383,192289481,2028465833,2217773404,Đường không tên,primary_link,Đường chính,False,Đường thông,yes,71.99
+406,192512292,2030639125,2030639105,Hẻm 486 Điện Biên Phủ,service,Hẻm cấp 1,True,Hẻm cụt,no,62.09
+409,192512295,2030639513,2030639105,Hẻm 488 Điện Biên Phủ,service,Hẻm cấp 1,True,Hẻm thông,no,87.42
+418,192512303,2030638976,14091806921,Hẻm 4 Nguyễn Gia Trí,residential,Hẻm cấp 1,True,Hẻm thông,no,105.31
+419,192512303,14091806921,2030639422,Hẻm 4 Nguyễn Gia Trí,residential,Hẻm cấp 1,True,Hẻm thông,no,6.53
+443,192512337,13063140035,729523394,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,12.05
+448,192512342,13975421536,1497313132,Đường không tên,primary_link,Đường chính,False,Đường thông,yes,24.43
+449,192512342,1497313132,9415490895,Đường không tên,primary_link,Đường chính,False,Đường thông,yes,22.36
+450,192512342,9415490895,729523390,Đường không tên,primary_link,Đường chính,False,Đường thông,yes,42.02
+467,192512362,1497313031,13161407559,Hẻm không tên,residential,Hẻm không tên,True,Hẻm thông,no,47.17
+468,192512362,13161407559,2030638859,Hẻm không tên,residential,Hẻm không tên,True,Hẻm thông,no,55.7
+477,192512368,8359515054,2030638859,Hẻm không tên,residential,Hẻm không tên,True,Hẻm thông,no,105.01
+480,192512371,14086099584,5776272437,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,23.28
+481,192512371,5776272437,8366358254,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,5.5
+482,192512371,8366358254,8366358260,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,18.81
+483,192512371,8366358260,729523402,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,17.76
+484,192512371,729523402,8366358266,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,12.07
+485,192512371,8366358266,10970878175,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,75.47
+486,192512371,10970878175,2030639062,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,9.7
+487,192512371,2030639062,13830119272,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,38.99
+488,192512371,13830119272,5776272443,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,1.64
+489,192512371,5776272443,2030639368,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,69.79
+490,192512371,2030639368,14086099586,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,40.26
+510,192512385,2030639368,14091838112,Hẻm 534 Điện Biên Phủ,residential,Hẻm cấp 1,True,Hẻm cụt,no,4.16
+511,192512385,14091838112,5776272451,Hẻm 534 Điện Biên Phủ,residential,Hẻm cấp 1,True,Hẻm cụt,no,41.41
+512,192512385,5776272451,5776272449,Hẻm 534 Điện Biên Phủ,residential,Hẻm cấp 1,True,Hẻm cụt,no,12.5
+526,192512394,2030639639,2030639062,Hẻm 502 Điện Biên Phủ,service,Hẻm cấp 1,True,Hẻm thông,no,83.99
+535,192512402,676534735,9415490901,Đường không tên,primary_link,Đường chính,False,Đường thông,yes,31.5
+536,192512402,9415490901,5776272434,Đường không tên,primary_link,Đường chính,False,Đường thông,yes,2.79
+537,192512402,5776272434,9415490906,Đường không tên,primary_link,Đường chính,False,Đường thông,yes,27.22
+538,192512402,9415490906,729523394,Đường không tên,primary_link,Đường chính,False,Đường thông,yes,21.9
+539,192512403,12157156562,2030639382,Hẻm 684 Xô viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm cụt,no,71.84
+544,192512413,14086099586,14091838110,Hẻm 548 Điện Biên Phủ,residential,Hẻm cấp 1,True,Hẻm thông,no,18.82
+545,192512413,14091838110,8359531323,Hẻm 548 Điện Biên Phủ,residential,Hẻm cấp 1,True,Hẻm thông,no,5.26
+546,192512413,8359531323,2030639084,Hẻm 548 Điện Biên Phủ,residential,Hẻm cấp 1,True,Hẻm thông,no,91.54
+566,192512446,14086099587,14091806918,Hẻm 527 Điện Biên Phủ,service,Hẻm cấp 1,True,Hẻm thông,no,19.42
+567,192512446,14091806918,2030638839,Hẻm 527 Điện Biên Phủ,service,Hẻm cấp 1,True,Hẻm thông,no,86.36
+688,263603378,2692283093,2692283099,Hẻm 441 Điện Biên Phủ,residential,Hẻm cấp 1,True,Hẻm thông,no,100.74
+693,268563780,2030638743,2739090337,Hẻm 391 Điện Biên Phủ,service,Hẻm cấp 1,True,Hẻm cụt,no,42.93
+694,268563780,2739090337,11786621549,Hẻm 391 Điện Biên Phủ,service,Hẻm cấp 1,True,Hẻm cụt,no,6.13
+695,268563780,11786621549,2739090332,Hẻm 391 Điện Biên Phủ,service,Hẻm cấp 1,True,Hẻm cụt,no,77.82
+698,268563988,2692283093,11968335756,Hẻm 69 Đường D2,service,Hẻm cấp 1,True,Hẻm thông,no,40.61
+699,268563988,11968335756,2692283091,Hẻm 69 Đường D2,service,Hẻm cấp 1,True,Hẻm thông,no,28.46
+700,268564010,2692283095,5778363114,Hẻm 356 Xô Viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm thông,no,13.35
+701,268564010,5778363114,2692283096,Hẻm 356 Xô Viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm thông,no,7.11
+702,268564010,2692283096,2692283098,Hẻm 356 Xô Viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm thông,no,52.64
+703,292941640,2964936521,2964936522,Cầu vượt đi bộ Văn Thánh,footway,Đường đi bộ,False,Đường thông,no,61.49
+704,292941641,2964936521,2964936523,Đường không tên,steps,Đường đi bộ,False,Đường thông,no,25.31
+705,292941642,2964936521,2964936524,Đường không tên,steps,Đường đi bộ,False,Đường thông,no,14.83
+706,292941643,2964936522,2964936525,Đường không tên,steps,Đường đi bộ,False,Đường thông,no,20.24
+707,292941644,2964936522,2964936526,Đường không tên,steps,Đường đi bộ,False,Đường thông,no,24.07
+708,306073177,9336814983,4066355292,Điện Biên Phủ,trunk,Đường chính,False,Đường thông,yes,26.58
+709,306073179,2659114286,3057506130,Cầu Sài Gòn 2,trunk,Đường chính,False,Đường cụt,yes,1101.67
+710,306073180,2659114287,2028465952,Cầu Sài Gòn 2,primary,Đường chính,False,Đường cụt,yes,1101.1
+719,330532283,729523394,2030639125,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,69.22
+720,330532283,2030639125,2030639513,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,22.18
+721,330532285,9352081757,9352081764,Điện Biên Phủ,trunk,Đường chính,False,Đường thông,yes,48.66
+722,330532285,9352081764,14086099589,Điện Biên Phủ,trunk,Đường chính,False,Đường thông,yes,122.86
+723,330532357,676534735,13441692401,Xô Viết Nghệ Tĩnh,primary,Đường chính,False,Đường thông,yes,27.85
+724,330532357,13441692401,1497276515,Xô Viết Nghệ Tĩnh,primary,Đường chính,False,Đường thông,yes,14.13
+725,330532364,13975421536,9415490897,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,22.91
+726,330532364,9415490897,2350400672,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,5.24
+727,358136776,3631245426,3631245427,Hẻm 42 Ung Văn Khiêm,residential,Hẻm cấp 1,True,Hẻm thông,no,46.29
+728,358136776,3631245427,3631245428,Hẻm 42 Ung Văn Khiêm,residential,Hẻm cấp 1,True,Hẻm thông,no,77.2
+729,366265646,729523405,14078444987,Hẻm không tên,service,Hẻm không tên,True,Hẻm cụt,no,91.74
+733,388370867,366418620,5777195845,Hẻm 341 Xô viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm cụt,no,163.15
+734,404356158,676534185,403556180,Điện Biên Phủ,trunk,Đường chính,False,Đường thông,yes,231.74
+735,404356160,4066357027,1497312813,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,70.94
+736,404360199,366441141,2030639374,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,29.74
+737,408245967,676548018,14086099586,Điện Biên Phủ,trunk,Đường chính,False,Đường thông,yes,200.79
+738,408260168,366431796,366457686,Tân Cảng,tertiary,Đường chính,False,Đường thông,no,100.92
+750,408260168,5337055596,11068172759,Tân Cảng,tertiary,Đường chính,False,Đường thông,no,50.7
+751,408260168,11068172759,1497312983,Tân Cảng,tertiary,Đường chính,False,Đường thông,no,50.01
+759,424118103,1497313042,13321346414,Hẻm 691 Điện Biên Phủ,residential,Hẻm cấp 1,True,Hẻm thông,no,8.46
+760,424118103,13321346414,14078577227,Hẻm 691 Điện Biên Phủ,residential,Hẻm cấp 1,True,Hẻm thông,no,6.71
+761,424118103,14078577227,4235815135,Hẻm 691 Điện Biên Phủ,residential,Hẻm cấp 1,True,Hẻm thông,no,85.98
+819,472076688,4663133999,5777195810,Hẻm 598 Điện Biên Phủ,residential,Hẻm cấp 1,True,Hẻm thông,no,53.97
+837,472557013,10281777731,5778363070,Hẻm 432 Xô viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm thông,no,6.35
+841,478798993,4719951850,4719951851,Cầu vượt Hàng Xanh,trunk,Đường chính,False,Đường cụt,yes,111.0
+842,478798994,2081892553,4066381556,Cầu vượt Hàng Xanh,trunk,Đường chính,False,Đường cụt,yes,111.38
+843,478798995,4719951851,14319357777,Cầu vượt Hàng Xanh,trunk,Đường chính,False,Đường thông,yes,144.34
+844,478798996,366441141,4066381552,Cầu vượt Hàng Xanh,trunk,Đường chính,False,Đường thông,yes,33.92
+1033,525277407,728705743,2146838337,Nguyễn Hữu Cảnh,primary,Đường chính,False,Đường thông,yes,26.69
+1039,525277878,5110361174,5110361175,Hẻm 190 Nguyễn Gia Trí,service,Hẻm cấp 1,True,Hẻm cụt,no,20.01
+1040,525277878,5110361175,5778363144,Hẻm 190 Nguyễn Gia Trí,service,Hẻm cấp 1,True,Hẻm cụt,no,33.53
+1061,552850636,366454468,8359568680,Hẻm 561 Điện Biên Phủ,residential,Hẻm cấp 1,True,Hẻm thông,no,78.86
+1062,552850636,8359568680,11836491812,Hẻm 561 Điện Biên Phủ,residential,Hẻm cấp 1,True,Hẻm thông,no,9.86
+1063,552850636,11836491812,2964936523,Hẻm 561 Điện Biên Phủ,residential,Hẻm cấp 1,True,Hẻm thông,no,5.03
+1064,552850636,2964936523,745747044,Hẻm 561 Điện Biên Phủ,residential,Hẻm cấp 1,True,Hẻm thông,no,4.9
+1074,552850640,366433763,5337055594,Hẻm 348 Ung Văn Khiêm,residential,Hẻm cấp 1,True,Hẻm thông,no,92.23
+1100,604102347,5733035592,5733035590,Hẻm 48 Ung Văn Khiêm,service,Hẻm cấp 1,True,Hẻm thông,no,100.24
+1101,604102348,5733035596,5733035593,Hẻm không tên,service,Hẻm không tên,True,Hẻm cụt,no,73.42
+1103,604104408,5778236288,5778236287,Hẻm 224/2 Ung Văn Khiêm,residential,Hẻm cấp 2,True,Hẻm cụt,no,29.85
+1104,604104408,5778236287,5733055226,Hẻm 224/2 Ung Văn Khiêm,residential,Hẻm cấp 2,True,Hẻm cụt,no,25.13
+1105,604104410,5733055230,5733055227,Hẻm không tên,service,Hẻm không tên,True,Hẻm cụt,no,76.65
+1114,604104420,5733055248,5733055247,Hẻm 143 Ung Văn Khiêm,service,Hẻm cấp 1,True,Hẻm cụt,no,59.38
+1122,604163783,5733448384,5733448381,Hẻm 292 Xô Viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm cụt,no,65.91
+1136,604442430,366382472,5735415584,Hẻm 271 Đường Ung Văn Khiêm,residential,Hẻm cấp 1,True,Hẻm cụt,no,89.51
+1139,604442433,5735415592,5735415591,Hẻm 281 Đường Ung Văn Khiêm,residential,Hẻm cấp 1,True,Hẻm cụt,no,94.6
+1454,609856666,5776272434,5776272435,Hẻm 316 Xô viết Nghệ Tĩnh,residential,Hẻm cấp 1,True,Hẻm cụt,no,30.82
+1455,609856667,5776272437,5776272438,Hẻm 490 Điện Biên Phủ,service,Hẻm cấp 1,True,Hẻm thông,no,86.81
+1460,609856669,5776272426,1497276507,Hẻm 300 Xô viết Nghệ Tĩnh,residential,Hẻm cấp 1,True,Hẻm thông,no,70.41
+1461,609856670,5776272443,5776272446,Hẻm 518 Điện Biên Phủ,residential,Hẻm cấp 1,True,Hẻm cụt,no,30.0
+1465,609856674,5776272451,5776272452,Hẻm không tên,service,Hẻm không tên,True,Hẻm cụt,no,23.95
+1643,609980569,5777195790,5777195797,Hẻm 602/37 Điện Biên Phủ,residential,Hẻm cấp 2,True,Hẻm cụt,no,146.68
+1647,609980571,5777195811,5777195807,Hẻm 566 Điện Biên Phủ,service,Hẻm cấp 1,True,Hẻm cụt,no,36.61
+1648,609980571,5777195807,14091754496,Hẻm 566 Điện Biên Phủ,service,Hẻm cấp 1,True,Hẻm cụt,no,19.25
+1649,609980571,14091754496,5777195806,Hẻm 566 Điện Biên Phủ,service,Hẻm cấp 1,True,Hẻm cụt,no,8.95
+1650,609980572,5777195807,5777195808,Hẻm 566 Điện Biên Phủ,service,Hẻm cấp 1,True,Hẻm cụt,no,30.59
+1670,609980605,366468735,5733035582,Hẻm 406 Xô viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm cụt,no,76.45
+1672,610082007,2739090335,2739090337,Hẻm 391 Điện Biên Phủ,service,Hẻm cấp 1,True,Hẻm cụt,no,59.34
+1673,610082009,14090403243,5778235524,Hẻm 429 Điện Biên Phủ,service,Hẻm cấp 1,True,Hẻm cụt,no,109.28
+1683,610082023,2692283099,5778235534,Hẻm 441/53 Điện Biên Phủ,service,Hẻm cấp 2,True,Hẻm cụt,no,45.7
+1684,610082025,2692283099,5778363130,Hẻm 441/55 Điện Biên Phủ,service,Hẻm cấp 2,True,Hẻm cụt,no,66.61
+1686,610082030,5778235549,5778235550,Hẻm 479 Điện Biên Phủ,service,Hẻm cấp 1,True,Hẻm cụt,no,73.69
+1687,610082033,745747151,14091776188,Hẻm 585 Điện Biên Phủ,residential,Hẻm cấp 1,True,Hẻm thông,no,5.39
+1688,610082033,14091776188,5778235551,Hẻm 585 Điện Biên Phủ,residential,Hẻm cấp 1,True,Hẻm thông,no,53.81
+1690,610082039,5778236258,5778235552,Hẻm 575 Điện Biên Phủ,service,Hẻm cấp 1,True,Hẻm thông,no,72.7
+1691,610082041,14304145862,14091776190,Hẻm 607 Điện Biên Phủ,residential,Hẻm cấp 1,True,Hẻm cụt,no,10.63
+1692,610082041,14091776190,5778236263,Hẻm 607 Điện Biên Phủ,residential,Hẻm cấp 1,True,Hẻm cụt,no,66.99
+1693,610082043,13181224430,14091776194,Hẻm 637 Điện Biên Phủ,residential,Hẻm cấp 1,True,Hẻm cụt,no,6.02
+1694,610082043,14091776194,5778236265,Hẻm 637 Điện Biên Phủ,residential,Hẻm cấp 1,True,Hẻm cụt,no,89.99
+1711,610082048,366450137,366423832,Hẻm 340 Ung Văn Khiêm,residential,Hẻm cấp 1,True,Hẻm thông,no,74.02
+1718,610082054,5778236281,5778236283,Hẻm 336 Ung Văn Khiêm,residential,Hẻm cấp 1,True,Hẻm thông,no,111.73
+1721,610082055,5110358418,5733055226,Hẻm 224 Ung Văn Khiêm,residential,Hẻm cấp 1,True,Hẻm thông,no,38.1
+1722,610082055,5733055226,5110358419,Hẻm 224 Ung Văn Khiêm,residential,Hẻm cấp 1,True,Hẻm thông,no,42.78
+1724,610082057,5733055226,5733055225,Hẻm 224/1 Ung Văn Khiêm,residential,Hẻm cấp 2,True,Hẻm thông,no,80.04
+1725,610082058,5778236289,5778236287,Hẻm 212 Ung Văn Khiêm,service,Hẻm cấp 1,True,Hẻm thông,no,56.39
+1728,610082061,5778236296,5778236299,Hẻm 193 Ung Văn Khiêm,residential,Hẻm cấp 1,True,Hẻm cụt,no,55.4
+1730,610082062,5778236296,5778236302,Hẻm 200 Ung Văn Khiêm,service,Hẻm cấp 1,True,Hẻm cụt,no,46.45
+1731,610082063,366404239,5778236305,Hẻm 148 Ung Văn Khiêm,service,Hẻm cấp 1,True,Hẻm thông,no,88.96
+1734,610082064,5778236305,11395584638,Hẻm 148/9 Ung Văn Khiêm,service,Hẻm cấp 2,True,Hẻm cụt,no,111.12
+1735,610082065,5778236307,11395584636,Hẻm không tên,service,Hẻm không tên,True,Hẻm cụt,no,46.47
+1738,610082066,5110361177,366420858,Hẻm 98 Ung Văn Khiêm,residential,Hẻm cấp 1,True,Hẻm cụt,no,55.14
+1743,610082069,3631245426,5778236317,Hẻm 41 Ung Văn Khiêm,service,Hẻm cấp 1,True,Hẻm thông,no,52.65
+1766,610102892,5778362637,5778362639,Hẻm 534 Xô viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm cụt,no,95.61
+1767,610102895,12313135298,11484546712,Hẻm 520 Xô Viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm cụt,no,39.0
+1768,610102895,11484546712,11484546711,Hẻm 520 Xô Viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm cụt,no,8.52
+1769,610102899,12313135293,5778362645,Hẻm 502 Xô viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm cụt,no,62.89
+1770,610102899,5778362645,5778362646,Hẻm 502 Xô viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm cụt,no,35.42
+1772,610102905,5778362648,5778362650,Hẻm 492 Xô viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm cụt,no,43.23
+1773,610102908,13900826831,13995093506,Hẻm 480 Xô viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm thông,no,118.08
+1774,610102914,5778363060,12313190201,Hẻm 466 Xô viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm thông,no,12.16
+1775,610102914,12313190201,5778363065,Hẻm 466 Xô viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm thông,no,28.9
+1776,610102917,5778363060,5778363068,Hẻm 466 Xô viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm cụt,no,27.62
+1783,610102926,5733301040,5778363089,Hẻm 400 Xô viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm thông,no,77.58
+1786,610102929,5778363108,5778363112,Hẻm 306/76/10 Xô Viết Nghệ Tĩnh,service,Hẻm cấp 3+,True,Hẻm cụt,no,49.54
+1787,610102930,5778363114,5778363115,Hẻm 356/20 Xô Viết Nghệ Tĩnh,service,Hẻm cấp 2,True,Hẻm thông,no,41.87
+1788,610102931,5778363116,5778363115,Hẻm 306/44 Xô Viết Nghệ Tĩnh,service,Hẻm cấp 2,True,Hẻm cụt,no,12.54
+1789,610102931,5778363115,5778363122,Hẻm 306/44 Xô Viết Nghệ Tĩnh,service,Hẻm cấp 2,True,Hẻm cụt,no,54.04
+1791,610102932,5778363124,5778363128,Hẻm 306/16 Xô Viết Nghệ Tĩnh,service,Hẻm cấp 2,True,Hẻm cụt,no,33.01
+1795,610102935,5778363131,5778363133,Hẻm 293/31 Xô Viết Nghệ Tĩnh,service,Hẻm cấp 2,True,Hẻm cụt,no,34.46
+1796,610102936,5733448378,5778363136,Hẻm 293/45 Xô Viết Nghệ Tĩnh,service,Hẻm cấp 2,True,Hẻm cụt,no,38.02
+1801,610102940,5110361176,5110361177,Hẻm 98 Ung Văn Khiêm,residential,Hẻm cấp 1,True,Hẻm thông,no,105.99
+1806,610102943,1276696908,1276696942,Hẻm 213 Nguyễn Gia Trí,residential,Hẻm cấp 1,True,Hẻm cụt,no,74.11
+1885,623684010,366464634,5889572045,Hẻm không tên,residential,Hẻm không tên,True,Hẻm cụt,no,33.49
+1895,706610445,6639975121,2022539300,Hẻm 602 Điện Biên Phủ,tertiary,Hẻm cấp 1,True,Hẻm thông,yes,60.33
+1896,706610446,2022539300,6639975121,Hẻm 602 Điện Biên Phủ,tertiary,Hẻm cấp 1,True,Hẻm thông,yes,59.73
+1903,737495706,2692283099,2692283090,Hẻm 441 Điện Biên Phủ,residential,Hẻm cấp 1,True,Hẻm thông,no,54.03
+1907,737495706,5778235525,2030639374,Hẻm 441 Điện Biên Phủ,residential,Hẻm cấp 1,True,Hẻm thông,no,57.82
+2010,818992111,1497325359,1497276507,Xô Viết Nghệ Tĩnh,primary,Đường chính,False,Đường thông,yes,35.3
+2011,818992111,1497276507,676534735,Xô Viết Nghệ Tĩnh,primary,Đường chính,False,Đường thông,yes,5.55
+2015,828862772,4066381552,2081892553,Cầu vượt Hàng Xanh,trunk,Đường chính,False,Đường thông,yes,146.06
+2016,828862773,13056731695,676548018,Điện Biên Phủ,trunk,Đường chính,False,Đường thông,yes,56.49
+2017,834288284,7787980711,9599139041,Hẻm không tên,residential,Hẻm không tên,True,Hẻm cụt,no,79.65
+2026,842706081,5738206939,403556180,Đường không tên,trunk_link,Đường chính,False,Đường thông,yes,11.59
+2034,842713230,1497313031,7861586071,Ung Văn Khiêm,secondary_link,Đường chính,False,Đường thông,yes,33.03
+2035,842713231,7861586071,728705748,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,20.44
+2036,842714595,728690586,1497312816,Nguyễn Hữu Cảnh,primary,Đường chính,False,Đường thông,yes,180.53
+2038,855212185,7975327079,11925718116,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,57.25
+2039,855212185,11925718116,6844683502,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,42.49
+2040,855212185,6844683502,14086099589,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,45.3
+2049,875450362,8148635764,8148635761,Đường không tên,path,Đường đi bộ,False,Đường thông,no,17.05
+2050,875450363,8148635760,8148635761,Đường không tên,steps,Đường đi bộ,False,Đường cụt,no,31.81
+2051,875450364,8148635762,8148635761,Đường không tên,steps,Đường đi bộ,False,Đường cụt,no,28.19
+2052,875450365,8148635763,8148635764,Đường không tên,steps,Đường đi bộ,False,Đường cụt,no,32.25
+2434,899717188,8359531323,11420177370,Hẻm 550 Điện Biên Phủ,residential,Hẻm cấp 1,True,Hẻm cụt,no,95.29
+2435,899718510,366387723,8359540701,Hẻm không tên,service,Hẻm không tên,True,Hẻm thông,no,51.9
+2436,899724378,2030638888,8359568680,Hẻm không tên,service,Hẻm không tên,True,Hẻm thông,yes,101.13
+2437,899728783,8359608048,8359608053,Đường không tên,footway,Đường đi bộ,False,Đường cụt,no,280.65
+2440,899846069,8360592513,8360592511,Hẻm không tên,service,Hẻm không tên,True,Hẻm cụt,no,54.74
+2442,900632717,8366358260,8366358254,Hẻm không tên,service,Hẻm không tên,True,Hẻm thông,no,107.39
+2443,900632718,8366358266,10970878175,Hẻm không tên,service,Hẻm không tên,True,Hẻm thông,no,132.45
+2445,900663760,3631245427,8366616772,Hẻm 42 Ung Văn Khiêm,service,Hẻm cấp 1,True,Hẻm cụt,no,40.77
+2446,900667331,8366626768,8366626746,Hẻm 427 Xô Viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm cụt,no,221.79
+2449,952527161,366402451,8816218943,Hẻm không tên,residential,Hẻm không tên,True,Hẻm cụt,no,79.14
+2460,952598435,8816924446,8816924445,Hẻm không tên,service,Hẻm không tên,True,Hẻm cụt,no,21.92
+2477,971692798,2403042654,1497276515,Ngã tư Hàng Xanh,primary,Đường chính,False,Đường cụt,yes,16.51
+2478,971692819,1497276531,1497276532,Ngã tư Hàng Xanh,primary,Đường chính,False,Đường cụt,yes,26.63
+2479,977346734,1497276515,2030638872,Ngã tư Hàng Xanh,primary,Đường chính,False,Đường thông,yes,24.3
+2480,977346736,728705743,5738206938,Nguyễn Hữu Cảnh,primary,Đường chính,False,Đường thông,yes,45.46
+2481,977346737,2028465981,4066357027,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,44.7
+2482,977346738,1497312813,5738206939,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,35.76
+2483,977523910,13063140029,2030638743,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,26.32
+2484,977523910,2030638743,13975421536,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,26.33
+2485,977523911,1497276531,9415490893,Xô Viết Nghệ Tĩnh,primary,Đường chính,False,Đường thông,yes,13.68
+2486,977523911,9415490893,729523390,Xô Viết Nghệ Tĩnh,primary,Đường chính,False,Đường thông,yes,43.22
+2487,978724173,4066355292,7861519680,Điện Biên Phủ,trunk,Đường chính,False,Đường thông,yes,63.07
+2488,978724174,2659114288,4066355292,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,60.2
+2489,987276648,366417938,14302808098,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,7.16
+2490,987276648,14302808098,11393952106,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,94.58
+2503,1012023452,9336814971,9336814981,Cầu Sài Gòn,trunk,Đường chính,False,Đường cụt,yes,1015.51
+2504,1012023453,9336814981,9336814983,Điện Biên Phủ,trunk,Đường chính,False,Đường thông,yes,33.43
+2505,1013663819,9352081757,6934036824,Đường không tên,trunk_link,Đường chính,False,Đường thông,yes,26.3
+2506,1013663820,9352081760,9352081764,Đường không tên,trunk_link,Đường chính,False,Đường thông,yes,26.6
+2507,1020848353,9415490892,9415490893,Đường không tên,footway,Đường đi bộ,False,Đường cụt,no,36.84
+2508,1020848353,9415490893,9415490894,Đường không tên,footway,Đường đi bộ,False,Đường cụt,no,13.64
+2509,1020848354,1497276512,13441692401,Đường không tên,footway,Đường đi bộ,False,Đường cụt,no,40.82
+2510,1020848354,13441692401,9415490901,Đường không tên,footway,Đường đi bộ,False,Đường cụt,no,21.01
+2511,1020848357,9415490906,9415490908,Đường không tên,footway,Đường đi bộ,False,Đường thông,no,12.7
+2512,1020848357,9415490908,9415490897,Đường không tên,footway,Đường đi bộ,False,Đường thông,no,37.86
+2513,1020848357,9415490897,1497313132,Đường không tên,footway,Đường đi bộ,False,Đường thông,no,11.67
+2541,1044625044,9612049545,9612049542,Hẻm không tên,service,Hẻm không tên,True,Hẻm cụt,no,20.67
+2542,1044625044,9612049542,11393952102,Hẻm không tên,service,Hẻm không tên,True,Hẻm cụt,no,36.92
+2549,1054134525,728705748,728690586,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,no,14.98
+2555,1057874322,8556388353,366402451,Nguyễn Gia Trí,tertiary,Đường chính,False,Đường thông,no,53.89
+2556,1057874322,366402451,7787980711,Nguyễn Gia Trí,tertiary,Đường chính,False,Đường thông,no,16.39
+2557,1057874322,7787980711,366376129,Nguyễn Gia Trí,tertiary,Đường chính,False,Đường thông,no,71.26
+2559,1063798117,9771085705,9771085706,Hẻm 121/10 Đường Tân Cảng,service,Hẻm cấp 2,True,Hẻm cụt,no,41.17
+2572,1072301614,2692283091,2692283098,Hẻm 69 Đường D2,service,Hẻm cấp 1,True,Hẻm thông,no,20.69
+2578,1114843254,5733301065,5733301064,Hẻm 378 Xô Viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm thông,no,60.44
+2584,1124355968,10281777732,10281777731,Hẻm 432 Xô viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm thông,no,8.66
+2585,1124355969,4667530610,10281777732,Hẻm 432 Xô viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm thông,no,40.07
+2587,1125371531,366368684,10291100966,Hẻm 103 Đường Ung Văn Khiêm,service,Hẻm cấp 1,True,Hẻm cụt,no,63.4
+2591,1133351424,12298284084,10910534491,Hẻm 42 Ung Văn Khiêm,residential,Hẻm cấp 1,True,Hẻm thông,no,63.44
+2596,1148782737,366464985,10687946925,Hẻm không tên,service,Hẻm không tên,True,Hẻm cụt,no,56.97
+2597,1149030430,12313135298,724227327,Hẻm 549 Xô Viết Nghệ Tĩnh,residential,Hẻm cấp 1,True,Hẻm cụt,yes,99.79
+2774,1171071631,2028466048,10882802007,Hẻm 680 Điện Biên Phủ,service,Hẻm cấp 1,True,Hẻm thông,no,209.23
+2776,1171071632,2028465981,5777195803,Hẻm 692 Điện Biên Phủ,service,Hẻm cấp 1,True,Hẻm thông,no,155.41
+2778,1173241924,1497313031,728705748,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,25.72
+2790,1177163812,5110361175,5110361176,Hẻm 98 Ung Văn Khiêm,service,Hẻm cấp 1,True,Hẻm thông,no,18.52
+2813,1192241855,11068172759,1497313012,Hẻm không tên,service,Hẻm không tên,True,Hẻm thông,no,70.17
+2819,1194174225,2028465981,2217773404,Nguyễn Hữu Cảnh,primary,Đường chính,False,Đường thông,yes,46.29
+2843,1219666744,10139058022,10139058026,Nguyễn Hữu Cảnh,primary,Đường chính,False,Đường thông,yes,13.8
+2844,1219666745,10139058026,11770053435,Nguyễn Hữu Cảnh,primary,Đường chính,False,Đường thông,yes,90.75
+2845,1219666745,11770053435,8840296764,Nguyễn Hữu Cảnh,primary,Đường chính,False,Đường thông,yes,23.09
+2847,1225093251,14086099588,9352081760,Điện Biên Phủ,trunk,Đường chính,False,Đường thông,yes,123.69
+2848,1227102752,11427848153,5110361174,Nguyễn Gia Trí,tertiary,Đường chính,False,Đường thông,no,19.57
+2849,1227102752,5110361174,1276696942,Nguyễn Gia Trí,tertiary,Đường chính,False,Đường thông,no,4.34
+2850,1227102752,1276696942,2692283106,Nguyễn Gia Trí,tertiary,Đường chính,False,Đường thông,no,57.97
+2859,1227103474,366438352,10910534491,Đường D5,tertiary,Đường chính,False,Đường thông,no,36.13
+2860,1227103609,2030639172,5733035581,Đường D5,tertiary,Đường chính,False,Đường thông,no,22.66
+2861,1227103609,5733035581,2030638753,Đường D5,tertiary,Đường chính,False,Đường thông,no,54.0
+2862,1227103609,2030638753,5733035608,Đường D5,tertiary,Đường chính,False,Đường thông,no,46.37
+2863,1227103609,5733035608,7787980717,Đường D5,tertiary,Đường chính,False,Đường thông,no,50.86
+2864,1227103609,7787980717,366474902,Đường D5,tertiary,Đường chính,False,Đường thông,no,9.09
+2865,1227103609,366474902,10291484410,Đường D5,tertiary,Đường chính,False,Đường thông,no,48.04
+2866,1227103609,10291484410,366436544,Đường D5,tertiary,Đường chính,False,Đường thông,no,62.07
+2869,1227984793,366448616,9336814983,Điện Biên Phủ,trunk,Đường chính,False,Đường thông,yes,31.53
+2874,1228618095,11393952106,11393952107,Hẻm không tên,service,Hẻm không tên,True,Hẻm cụt,no,21.58
+2875,1228618095,11393952107,11393952105,Hẻm không tên,service,Hẻm không tên,True,Hẻm cụt,no,18.14
+2876,1228618096,9612049542,11393952107,Hẻm không tên,service,Hẻm không tên,True,Hẻm thông,no,54.11
+2878,1232064243,11427848154,11427848153,Nguyễn Gia Trí,tertiary,Đường chính,False,Đường thông,yes,64.88
+2879,1232064244,366376129,11427848154,Đường không tên,tertiary,Đường chính,False,Đường thông,no,7.13
+2881,1236770737,11484546712,11484546715,Hẻm 520 Xô Viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm cụt,no,13.79
+2882,1236770738,5778362645,11484546718,Hẻm không tên,service,Hẻm không tên,True,Hẻm cụt,no,14.26
+2893,1265471308,1497276525,1497276531,Ngã tư Hàng Xanh,primary,Đường chính,False,Đường thông,yes,14.82
+2894,1265743193,366414641,9612049545,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,25.22
+2895,1265743194,11427848153,11427848154,Nguyễn Gia Trí,tertiary,Đường chính,False,Đường thông,yes,64.6
+2896,1265743195,729523408,366440827,Đường không tên,trunk_link,Đường chính,False,Đường thông,no,16.37
+2897,1265743196,14086099587,2030639422,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,23.32
+2898,1265743196,2030639422,729523408,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,53.59
+2899,1267040017,8840296764,1497313031,Nguyễn Hữu Cảnh,primary,Đường chính,False,Đường thông,yes,41.24
+2900,1267040018,7861519680,403552872,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,79.64
+2901,1267269197,2028465833,728705743,Nguyễn Hữu Cảnh,primary,Đường chính,False,Đường thông,yes,61.53
+2908,1267913085,366431796,8359540701,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,14.45
+2909,1267913085,8359540701,8816924446,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,61.47
+2910,1267913085,8816924446,5778236281,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,51.14
+2911,1267913085,5778236281,366423832,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,30.05
+2912,1267913085,366423832,366433763,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,48.36
+2913,1267913085,366433763,366421019,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,47.22
+2914,1267913085,366421019,8359515054,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,72.5
+2915,1267913085,8359515054,7861586071,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,9.06
+2919,1269008323,11786621549,11786621551,Hẻm 391 Điện Biên Phủ,service,Hẻm cấp 1,True,Hẻm cụt,no,46.09
+2924,1273981247,2692283096,11829624606,Hẻm không tên,service,Hẻm không tên,True,Hẻm cụt,no,12.3
+2925,1274768290,11836491812,11836491811,Hẻm không tên,service,Hẻm không tên,True,Hẻm thông,yes,100.47
+2936,1278461429,2350400672,1497276525,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,17.97
+2937,1278461430,2030638872,2350400666,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,17.37
+2938,1285601342,11925718105,11925718104,Hẻm không tên,service,Hẻm không tên,True,Hẻm thông,no,56.83
+2939,1285601343,11925718116,14091806901,Hẻm không tên,service,Hẻm không tên,True,Hẻm thông,no,11.56
+2940,1285601343,14091806901,11925718105,Hẻm không tên,service,Hẻm không tên,True,Hẻm thông,no,12.86
+2941,1285601343,11925718105,11925718106,Hẻm không tên,service,Hẻm không tên,True,Hẻm thông,no,6.03
+2942,1285601343,11925718106,11925718106,Hẻm không tên,service,Hẻm không tên,True,Hẻm thông,no,66.84
+2943,1285905013,11928053987,11925718105,Hẻm không tên,service,Hẻm không tên,True,Hẻm cụt,no,44.96
+2963,1290846558,11968335756,11968335757,Hẻm 69/64 Đường D2,service,Hẻm cấp 2,True,Hẻm cụt,no,35.07
+2976,1296592970,5778236310,5778236314,Hẻm 97 Ung Văn Khiêm,residential,Hẻm cấp 1,True,Hẻm thông,no,84.33
+2978,1296948313,403556180,2659114286,Điện Biên Phủ,trunk,Đường chính,False,Đường thông,yes,74.09
+2979,1296948314,1497312813,403556180,Điện Biên Phủ,trunk_link,Đường chính,False,Đường thông,yes,38.97
+2987,1306101706,366416151,366431796,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,203.14
+2990,1313422554,366417938,14302829704,Xô Viết Nghệ Tĩnh,secondary,Đường chính,False,Đường thông,yes,10.18
+2991,1313422554,14302829704,12157156562,Xô Viết Nghệ Tĩnh,secondary,Đường chính,False,Đường thông,yes,26.65
+2992,1313422554,12157156562,12157156563,Xô Viết Nghệ Tĩnh,secondary,Đường chính,False,Đường thông,yes,33.13
+2994,1313422555,6844683502,14091806904,Hẻm không tên,residential,Hẻm không tên,True,Hẻm cụt,no,7.31
+2995,1313422555,14091806904,12157156567,Hẻm không tên,residential,Hẻm không tên,True,Hẻm cụt,no,58.77
+3003,1324261892,11393952106,366414641,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,27.05
+3004,1324261893,9612049545,3631245426,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,54.26
+3005,1324261893,3631245426,5733035592,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,31.0
+3006,1324261893,5733035592,5733035596,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,35.5
+3007,1324261893,5733035596,5733055230,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,66.3
+3008,1324261893,5733055230,8360592513,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,13.89
+3009,1324261893,8360592513,5733055248,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,46.5
+3010,1324261893,5733055248,1276696904,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,7.64
+3011,1324261893,1276696904,366376129,Ung Văn Khiêm,secondary,Đường chính,False,Đường thông,yes,78.56
+3018,1330784594,12437015526,13966760795,Xô Viết Nghệ Tĩnh,primary,Đường chính,False,Đường thông,yes,12.95
+3019,1330784594,13966760795,366418620,Xô Viết Nghệ Tĩnh,primary,Đường chính,False,Đường thông,yes,93.57
+3020,1330784595,366418620,5733301065,Xô Viết Nghệ Tĩnh,primary,Đường chính,False,Đường thông,yes,89.49
+3021,1330784596,366438352,5778363065,Xô Viết Nghệ Tĩnh,primary,Đường chính,False,Đường thông,yes,87.81
+3022,1330784596,5778363065,13900826831,Xô Viết Nghệ Tĩnh,primary,Đường chính,False,Đường thông,yes,50.14
+3023,1330784596,13900826831,12313135295,Xô Viết Nghệ Tĩnh,primary,Đường chính,False,Đường thông,yes,7.18
+3024,1330784596,12313135295,12313135294,Xô Viết Nghệ Tĩnh,primary,Đường chính,False,Đường thông,yes,24.36
+3025,1330784596,12313135294,12313135293,Xô Viết Nghệ Tĩnh,primary,Đường chính,False,Đường thông,yes,30.85
+3026,1330784596,12313135293,12313135298,Xô Viết Nghệ Tĩnh,primary,Đường chính,False,Đường thông,yes,54.54
+3027,1330784597,12313135294,5778362648,Hẻm 492 Xô viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm thông,no,51.57
+3028,1330784598,373544277,8366626746,Xô Viết Nghệ Tĩnh,primary,Đường chính,False,Đường thông,yes,40.03
+3029,1330784598,8366626746,14166348443,Xô Viết Nghệ Tĩnh,primary,Đường chính,False,Đường thông,yes,32.41
+3030,1330784598,14166348443,4667530610,Xô Viết Nghệ Tĩnh,primary,Đường chính,False,Đường thông,yes,15.03
+3031,1330784598,4667530610,366438352,Xô Viết Nghệ Tĩnh,primary,Đường chính,False,Đường thông,yes,30.17
+3032,1330784599,12313190201,12313135300,Hẻm 466 Xô viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm cụt,no,24.59
+3033,1330784600,5778363060,5778363063,Hẻm 466 Xô viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm cụt,no,40.96
+3034,1330786034,12437015526,1497324972,Hẻm 306 Xô Viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm thông,no,56.81
+3035,1330786037,2692283095,1497324974,Hẻm 306 Xô Viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm thông,no,60.45
+3036,1330786038,366418620,2692283095,Hẻm 356 Xô Viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm thông,no,59.36
+3038,1334153045,5733055225,5778363395,Hẻm 224/1 Ung Văn Khiêm,residential,Hẻm cấp 2,True,Hẻm thông,no,24.62
+3048,1344042990,6665189880,12050016265,Hẻm không tên,residential,Hẻm không tên,True,Hẻm cụt,no,153.7
+3049,1344042991,5733481785,11925718104,Nguyễn Văn Thương,tertiary,Đường chính,False,Đường thông,no,58.25
+3050,1344042991,11925718104,2030638888,Nguyễn Văn Thương,tertiary,Đường chính,False,Đường thông,no,6.45
+3051,1344042991,2030638888,11836491811,Nguyễn Văn Thương,tertiary,Đường chính,False,Đường thông,no,4.45
+3052,1344042991,11836491811,14091776195,Nguyễn Văn Thương,tertiary,Đường chính,False,Đường thông,no,1.93
+3053,1344042991,14091776195,7975327079,Nguyễn Văn Thương,tertiary,Đường chính,False,Đường thông,no,10.71
+3054,1344043025,366416151,366448590,Nguyễn Văn Thương,tertiary,Đường chính,False,Đường thông,no,43.0
+3055,1344043025,366448590,5778363394,Nguyễn Văn Thương,tertiary,Đường chính,False,Đường thông,no,15.14
+3068,1344043030,2022539300,2964936526,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,21.11
+3069,1344043030,2964936526,2964936525,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,41.54
+3070,1344043030,2964936525,745747142,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,106.73
+3071,1344043032,1497312816,10139058022,Nguyễn Hữu Cảnh,primary,Đường chính,False,Đường thông,yes,32.16
+3072,1344043033,13326727614,9352081757,Điện Biên Phủ,trunk,Đường chính,False,Đường thông,yes,153.05
+3073,1344043034,6934036824,676534185,Điện Biên Phủ,trunk,Đường chính,False,Đường thông,yes,188.1
+3075,1344797761,2028466048,2028465981,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,21.88
+3076,1344797764,745747151,5778236258,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,15.7
+3077,1344797764,5778236258,745747044,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,54.33
+3078,1344797764,745747044,2964936524,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,39.51
+3079,1344797764,2964936524,7975327079,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,59.39
+3080,1344797767,745747142,14304145863,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,37.3
+3081,1344797767,14304145863,2028466048,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,43.7
+3082,1344797769,7861519680,13326727612,Điện Biên Phủ,trunk,Đường chính,False,Đường thông,yes,161.6
+3083,1344797770,2217773404,5777195545,Nguyễn Hữu Cảnh,primary,Đường chính,False,Đường thông,yes,48.69
+3111,1408239735,12942164870,12942164871,Đường không tên,footway,Đường đi bộ,False,Đường cụt,no,10.84
+3112,1408239736,12942164871,12942164872,Đường không tên,steps,Đường đi bộ,False,Đường thông,no,16.48
+3113,1408239737,12942164871,12942164873,Đường không tên,steps,Đường đi bộ,False,Đường cụt,no,15.44
+3114,1408239738,12942164874,12942164875,Đường không tên,footway,Đường đi bộ,False,Đường cụt,no,49.37
+3115,1408239739,12942164875,12942164876,Đường không tên,steps,Đường đi bộ,False,Đường thông,no,31.22
+3116,1408239740,12942164875,12942164877,Đường không tên,steps,Đường đi bộ,False,Đường thông,no,32.36
+3126,1411067292,5778363087,5778363089,Hẻm 402 Đường Xô Viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm thông,no,70.08
+3127,1411067293,2692283098,2739091997,Hẻm 356 Xô viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm cụt,no,65.11
+3128,1411067484,12313135298,12313135292,Xô Viết Nghệ Tĩnh,primary,Đường chính,False,Đường cụt,yes,57.73
+3144,1416277570,2146838337,1497312813,Nguyễn Hữu Cảnh,primary,Đường chính,False,Đường thông,yes,22.35
+3150,1420775986,9352081760,6934036824,Điện Biên Phủ,trunk,Đường chính,False,Đường thông,yes,47.56
+3151,1420802524,14319357777,13056731695,Cầu vượt Hàng Xanh,trunk,Đường chính,False,Đường thông,yes,18.13
+3152,1421503180,13063140029,13063140035,Đường không tên,primary_link,Đường chính,False,Đường thông,yes,97.19
+3153,1421503181,2030639374,14090403243,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,30.49
+3154,1421503181,14090403243,13063140029,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,65.94
+3155,1421503182,2350400666,9415490908,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,3.13
+3156,1421503182,9415490908,13063140035,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,5.67
+3159,1428196421,728690586,8840296760,Cầu vượt Nguyễn Hữu Cảnh,primary,Đường chính,False,Đường thông,yes,199.5
+3160,1431897045,11770053435,13161407559,Hẻm không tên,residential,Hẻm không tên,True,Hẻm thông,yes,40.4
+3161,1434431137,13326727612,14304145862,Điện Biên Phủ,trunk,Đường chính,False,Đường thông,yes,34.82
+3162,1434431137,14304145862,13326727614,Điện Biên Phủ,trunk,Đường chính,False,Đường thông,yes,60.83
+3168,1446229707,13269798556,13269798559,Hẻm không tên,service,Hẻm không tên,True,Hẻm cụt,no,74.82
+3169,1452547034,13321346421,13321346423,Đường không tên,footway,Đường đi bộ,False,Đường cụt,no,14.0
+3170,1452547034,13321346423,13321346416,Đường không tên,footway,Đường đi bộ,False,Đường cụt,no,15.05
+3171,1452547034,13321346416,13321346428,Đường không tên,footway,Đường đi bộ,False,Đường cụt,no,51.07
+3172,1452547034,13321346428,13321346420,Đường không tên,footway,Đường đi bộ,False,Đường cụt,no,127.35
+3173,1452547035,4066363895,13321346422,Hẻm không tên,service,Hẻm không tên,True,Hẻm cụt,no,12.19
+3174,1452547035,13321346422,13321346415,Hẻm không tên,service,Hẻm không tên,True,Hẻm cụt,no,15.48
+3175,1452547035,13321346415,13321346418,Hẻm không tên,service,Hẻm không tên,True,Hẻm cụt,no,3.88
+3176,1452547037,13321346422,13321346423,Đường không tên,footway,Đường đi bộ,False,Đường cụt,no,62.14
+3177,1452547037,13321346423,13321346427,Đường không tên,footway,Đường đi bộ,False,Đường cụt,no,110.8
+3178,1452547038,13321346428,12942164872,Đường không tên,footway,Đường đi bộ,False,Đường thông,no,11.29
+3179,1452547039,12942164877,13321346414,Đường không tên,footway,Đường đi bộ,False,Đường thông,no,24.23
+3180,1452547040,12942164876,13321346429,Đường không tên,footway,Đường đi bộ,False,Đường thông,no,14.36
+3181,1452547235,13321346417,13321346415,Hẻm không tên,service,Hẻm không tên,True,Hẻm cụt,no,73.44
+3182,1452547235,13321346415,13321346416,Hẻm không tên,service,Hẻm không tên,True,Hẻm cụt,no,62.23
+3185,1455411022,2692283091,13347524754,Hẻm không tên,service,Hẻm không tên,True,Hẻm cụt,no,27.78
+3216,1508455906,13791452204,14093825221,Đường không tên,primary_link,Đường chính,False,Đường thông,yes,26.71
+3217,1508455906,14093825221,5738206939,Đường không tên,primary_link,Đường chính,False,Đường thông,yes,3.72
+3218,1508455907,14346502588,13791452204,Nguyễn Hữu Cảnh,primary,Đường chính,False,Đường thông,yes,10.28
+3219,1508462063,2146838337,5738206938,Đường không tên,primary_link,Đường chính,False,Đường thông,yes,31.96
+3220,1508462064,4066357027,2146838337,Điện Biên Phủ,primary_link,Đường chính,False,Đường thông,yes,59.98
+3221,1509968743,5738206938,14346542684,Hẻm không tên,residential,Hẻm không tên,True,Hẻm thông,yes,14.29
+3222,1509968744,11770053437,13791452204,Hẻm không tên,residential,Hẻm không tên,True,Hẻm thông,yes,9.67
+3226,1513893347,13830119272,13830119273,Hẻm không tên,service,Hẻm không tên,True,Hẻm cụt,no,26.56
+3227,1525071031,12313135295,13900826830,Hẻm không tên,service,Hẻm không tên,True,Hẻm cụt,no,30.53
+3240,1532516098,13966760793,13966760795,Đường không tên,footway,Đường đi bộ,False,Đường cụt,no,13.16
+3241,1532516098,13966760795,13966760794,Đường không tên,footway,Đường đi bộ,False,Đường cụt,no,9.05
+3267,1547904108,14078577227,8359515054,Hẻm không tên,service,Hẻm không tên,True,Hẻm thông,no,51.68
+3269,1548674949,2030639513,14086099584,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,17.8
+3270,1548674950,373544408,14086099587,Điện Biên Phủ,trunk,Đường chính,False,Đường thông,yes,38.21
+3271,1548674951,14086099586,676546410,Điện Biên Phủ,trunk,Đường chính,False,Đường thông,yes,39.14
+3272,1548674952,676544140,14086099588,Điện Biên Phủ,trunk,Đường chính,False,Đường thông,yes,22.31
+3273,1548674953,14086099589,373544381,Điện Biên Phủ,trunk,Đường chính,False,Đường thông,yes,25.53
+3274,1549167888,14086099584,13056731695,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,54.11
+3275,1549335516,14091806910,14091806904,Đường không tên,footway,Đường đi bộ,False,Đường thông,no,69.35
+3276,1549335516,14091806904,14091776186,Đường không tên,footway,Đường đi bộ,False,Đường thông,no,39.4
+3277,1549335517,14091806913,14091806910,Đường không tên,footway,Đường đi bộ,False,Đường thông,no,50.55
+3278,1549335518,14091806927,14091806926,Đường không tên,footway,Đường đi bộ,False,Đường thông,no,12.77
+3279,1549335519,14091776184,14091776196,Đường không tên,footway,Đường đi bộ,False,Đường thông,no,33.8
+3280,1549335520,14091776186,14091806901,Đường không tên,footway,Đường đi bộ,False,Đường thông,no,10.55
+3281,1549335520,14091806901,14091776184,Đường không tên,footway,Đường đi bộ,False,Đường thông,no,8.38
+3282,1549335521,14091776196,14091776195,Đường không tên,footway,Đường đi bộ,False,Đường thông,no,19.51
+3283,1549335522,14091776194,14091776190,Đường không tên,footway,Đường đi bộ,False,Đường thông,no,64.85
+3284,1549335522,14091776190,14091776188,Đường không tên,footway,Đường đi bộ,False,Đường thông,no,70.38
+3285,1549335523,14091806926,14091806921,Đường không tên,footway,Đường đi bộ,False,Đường thông,no,42.47
+3286,1549335523,14091806921,14091806918,Đường không tên,footway,Đường đi bộ,False,Đường thông,no,20.68
+3287,1549335523,14091806918,14091806913,Đường không tên,footway,Đường đi bộ,False,Đường thông,no,39.0
+3288,1549339919,14091838104,14091838102,Đường không tên,footway,Đường đi bộ,False,Đường thông,no,53.1
+3289,1549339920,14091838112,14091838110,Đường không tên,footway,Đường đi bộ,False,Đường thông,no,40.18
+3290,1549339920,14091838110,14091838104,Đường không tên,footway,Đường đi bộ,False,Đường thông,no,33.46
+3291,1549339921,14091838102,14091754496,Đường không tên,footway,Đường đi bộ,False,Đường thông,no,53.55
+3292,1549544861,14093825221,14093825223,Đường không tên,footway,Đường đi bộ,False,Đường thông,no,77.87
+3293,1549544862,14093825223,14093819673,Đường không tên,footway,Đường đi bộ,False,Đường cụt,no,1104.47
+3319,1550319379,9415490894,9415490895,Đường không tên,footway,Đường đi bộ,False,Đường thông,no,9.34
+3321,1557590434,14166348443,14166348444,Hẻm 439 Xô Viết Nghệ Tĩnh,service,Hẻm cấp 1,True,Hẻm cụt,no,30.42
+3331,1570020686,14302736777,14302736776,Hẻm không tên,service,Hẻm không tên,True,Hẻm cụt,no,35.92
+3332,1570021407,14302741662,14302741661,Hẻm không tên,service,Hẻm không tên,True,Hẻm cụt,no,38.06
+3333,1570028768,14302808099,14302808098,Đường không tên,footway,Đường đi bộ,False,Đường cụt,no,9.11
+3334,1570028768,14302808098,14302808097,Đường không tên,footway,Đường đi bộ,False,Đường cụt,no,4.29
+3335,1570028769,14302829702,14302808100,Đường không tên,footway,Đường đi bộ,False,Đường cụt,no,12.5
+3336,1570028770,14302829706,14302829704,Đường không tên,footway,Đường đi bộ,False,Đường cụt,no,11.85
+3337,1570028770,14302829704,14302829703,Đường không tên,footway,Đường đi bộ,False,Đường cụt,no,4.6
+3338,1570031951,14302826694,14302826693,Hẻm không tên,service,Hẻm không tên,True,Hẻm cụt,no,58.16
+3339,1570036329,14302836878,14302836877,Hẻm không tên,service,Hẻm không tên,True,Hẻm cụt,no,48.4
+3403,1570156238,745747142,676534185,Đường không tên,primary_link,Đường chính,False,Đường thông,yes,24.02
+3404,1570156239,676534185,14304145863,Đường không tên,primary_link,Đường chính,False,Đường thông,yes,23.89
+3405,1570156240,13326727614,745747151,Điện Biên Phủ,primary,Đường chính,False,Đường thông,yes,14.94
+3417,1575184694,14346542684,11770053437,Hẻm không tên,residential,Hẻm không tên,True,Hẻm thông,yes,9.88
+3418,1575184697,5738206938,14346502588,Nguyễn Hữu Cảnh,primary,Đường chính,False,Đường thông,yes,10.28

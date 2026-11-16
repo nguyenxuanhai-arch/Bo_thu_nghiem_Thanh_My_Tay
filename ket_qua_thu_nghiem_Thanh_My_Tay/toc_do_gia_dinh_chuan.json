@@ -1,0 +1,59 @@
+{
+  "ten_kich_ban": "Mô hình vận tốc giả định chuẩn giờ cao điểm (Bình Thạnh, TP.HCM)",
+  "phien_ban": "2.3",
+  "ngay_cap_nhat": "2026-11-15",
+  "mo_ta": "Tốc độ giả định mô phỏng xe máy 07:00–09:00 và 17:00–19:00. Chỉ các cạnh đã gán mã mới dùng tốc độ kẹt. Giữ tốc độ và độ trễ đã khai báo trong bản 2.0.",
+  "toc_do_kmh": {
+    "duong_chinh": 40.0,
+    "hem_cap_1": 30.0,
+    "hem_cap_2": 22.0,
+    "hem_cap_3_va_khong_ten": 15.0,
+    "duong_di_bo": 7.0,
+    "duong_noi_bo_khong_phai_hem": 15.0
+  },
+  "do_tre_re_giay": {
+    "di_thang": 3.0,
+    "re_phai": 8.0,
+    "re_trai": 35.0,
+    "quay_dau": 75.0,
+    "re_trai_tu_hem_ra_truc_chinh_phat_them": 30.0,
+    "phat_hem_cut": 300.0
+  },
+  "co_so_khoa_hoc_va_thuc_tien": {
+    "duong_chinh": "Vận tốc giả định 40 km/h cho các trục đường chính thông thoáng. Các cung đã đánh dấu kẹt xe dùng tốc độ theo mã đoạn.",
+    "hem_cap_1": "Vận tốc 30.0 km/h: Hẻm rộng từ 4m đến 6m, thông giữa 2 trục đường lớn, xe máy lưu thông thông thoáng.",
+    "hem_cap_2": "Vận tốc 22.0 km/h: Hẻm rộng 2.5m - 4m, mật độ dân cư vừa phải.",
+    "hem_cap_3_va_khong_ten": "Vận tốc 15.0 km/h: Hẻm nhỏ < 2.5m, nhiều khúc quanh co, xe máy di chuyển ở mức 15 km/h.",
+    "duong_di_bo": "Vận tốc 7.0 km/h: Các lối đi nội bộ khu dân cư.",
+    "di_thang": "3.0 giây: Độ trễ trung bình khi đi thẳng qua giao lộ.",
+    "re_phai": "8.0 giây: Xe máy tại Việt Nam đi bên phải đường, việc rẽ phải thuận chiều, không cắt dòng xe đối diện nên độ trễ thấp.",
+    "re_trai": "35.0 giây: Rẽ trái tại giao lộ buộc phải cắt ngang dòng phương tiện đối diện đang đông đúc, chờ khoảng trống hoặc chờ pha đèn phụ, tạo ra điểm nghẽn lớn.",
+    "re_trai_tu_hem_ra_truc_chinh_phat_them": "Cộng thêm 30.0 giây (tổng cộng 65s): Xe máy từ hẻm nhỏ rẽ trái nhập làn vào trục chính đang đông phải nhích từng chút để xin đường, nguy cơ trễ rất cao.",
+    "phat_hem_cut": "Phạt 300 giây mỗi lần đi vào một nhánh hẻm cụt nếu đích nằm ngoài nhánh. Khoản phạt cộng vào chi phí BOA*. Hẻm cụt được nhận diện theo liên kết của đồ thị."
+  },
+  "toc_do_ket_xe_kmh_theo_ma_doan": {
+    "1": 6.5,
+    "2": 6.5,
+    "3": 6.0,
+    "4": 7.5,
+    "5": 8.0,
+    "6": 7.5,
+    "7": 8.0
+  },
+  "nguong_be_rong_hem_m": {
+    "hem_cap_1": 4.0,
+    "hem_cap_2": 2.5
+  },
+  "be_rong_hem_m_theo_osm_way_id": {},
+  "ghi_chu_ap_dung": {
+    "toc_do_duong_noi_bo": "15 km/h, lấy từ cấu hình BOA* 2.1.",
+    "hem_thieu_be_rong": "Dùng mức 15 km/h theo cấu hình BOA* 2.1.",
+    "kich_ban": "Các mã 2 và 5 ngoài mạng test. Mã 7 có tốc độ tham khảo và đoạn D5 đã nối đủ, nhưng chưa áp dụng tốc độ kẹt. Điện Biên Phủ tới chân cầu Sài Gòn và Hẻm 356 là các ghi nhận theo sự kiện."
+  },
+  "ma_doan_ap_dung_tren_bo_test": [
+    "1",
+    "3",
+    "4",
+    "6"
+  ]
+}
